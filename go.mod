@@ -3,7 +3,7 @@ module github.com/nektos/act
 go 1.16
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.3.2
+	github.com/AlecAivazis/survey/v2 v2.3.4
 	github.com/Masterminds/semver v1.5.0
 	github.com/Microsoft/hcsshim v0.8.22 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20210920160938-87db9fbc61c7 // indirect
