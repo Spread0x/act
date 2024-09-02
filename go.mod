@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/Masterminds/semver v1.5.0
-	github.com/adrg/xdg v0.4.0
+	github.com/adrg/xdg v0.5.0
 	github.com/andreaskoch/go-fswatch v1.0.0
 	github.com/creack/pty v1.1.18
 	github.com/docker/cli v23.0.3+incompatible
@@ -29,7 +29,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.9.0
 	golang.org/x/term v0.7.0
 	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools/v3 v3.4.0
@@ -68,7 +68,7 @@ require (
 	github.com/robfig/cron v1.2.0 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/skeema/knownhosts v1.1.0 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
@@ -76,7 +76,7 @@ require (
 	golang.org/x/crypto v0.6.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
